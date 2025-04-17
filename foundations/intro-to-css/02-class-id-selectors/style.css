@@ -1,6 +1,4 @@
-.one,
-.three,
-.five {
+.odd {
     background-color: rgb(255, 192, 203);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
@@ -8,3 +6,9 @@
 #two {color: rgb(0,37,255);
     font-size: 36px;
 }
+
+.odd.three {
+    font-size: 24px;
+    font-weight: 700;
+}
+
